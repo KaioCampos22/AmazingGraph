@@ -1,0 +1,9 @@
+.action{
+        display:inline-flex;
+        align-items: center;
+        font-size: 30px;
+        text-decoration: none;
+        color: #766F68;
+        margin-right: 25px;
+        font-weight: normal;
+}

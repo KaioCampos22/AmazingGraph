@@ -1,0 +1,6 @@
+.title{
+    display: flex;
+    flex-flow: wrap;
+    font-size: 90px;
+    color: #766F68;
+}

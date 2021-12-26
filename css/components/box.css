@@ -1,0 +1,24 @@
+.box{
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    margin-left:100px;
+}
+
+
+.box .button{
+    color: #fff;
+    font-size: 40px;
+    display:flex;
+    width: 430px;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    background-color: #D2872C;
+    text-align: center;
+    border-radius: 0.75em;
+    border: none;
+    line-height: 1.5;
+    font-weight: bold;
+
+}

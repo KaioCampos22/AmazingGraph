@@ -1,0 +1,17 @@
+.header{
+    display:flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-right: 30px;
+    font-weight: bold;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.header .DevChallenge{
+    font-size: 50px;
+    text-decoration: none;
+    color:#D2872C;
+    box-shadow: 5px solid #D2872C;
+    font-weight: bold;
+}

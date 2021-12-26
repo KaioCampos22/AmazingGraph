@@ -1,0 +1,9 @@
+.section{
+    display:flex;
+    justify-content: center;
+    flex-direction:inherit;
+    flex-flow: row;
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
